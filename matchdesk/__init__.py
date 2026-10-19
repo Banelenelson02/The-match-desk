@@ -1,0 +1,1 @@
+"""Synthetic football insights starter."""
